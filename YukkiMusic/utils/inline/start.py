@@ -7,7 +7,7 @@
 #
 # All rights reserved.
 
-from typing import Union
+'''from typing import Union
 
 from pyrogram.types import InlineKeyboardButton
 
@@ -132,3 +132,5 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [InlineKeyboardButton(text=_["ST_B_6"], callback_data="LG")]
     )
     return buttons
+'''
+#LUND LE LO BHNCO🥴🥴
