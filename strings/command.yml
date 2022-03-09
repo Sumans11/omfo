@@ -11,9 +11,9 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["ping", "पिंग"]
-START_COMMAND : ["lstart", "स्टार्ट"]
-HELP_COMMAND : ["lhelp", "हेल्प"]
+PING_COMMAND : ["pung", "पुंज"]
+START_COMMAND : ["peru", "पेरू"]
+HELP_COMMAND : ["lola", "लोला"]
 SETTINGS_COMMAND : ["settings", "setting", "सेटिंग्स", "सेटिंग"]
 RELOAD_COMMAND : ["admincache", "reload", "व्यवस्थापक कैश", "पुनः लोड करें"]
 STATS_COMMAND : ["stats", "आँकड़े"]
